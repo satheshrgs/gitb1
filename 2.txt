@@ -1,0 +1,14 @@
+SOme content
+
+
+
+
+
+To add one specific file:
+
+git add filename.extension - git add 1.txt
+			   - git add "first file.txt"
+
+To add all files:
+
+git add .
