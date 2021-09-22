@@ -1,16 +1,1 @@
-SOme content Updated 1
-
-
-printf("");
-
-console.log("");
-
-
-To add one specific file:
-
-git add filename.extension - git add 1.txt
-			   - git add "first file.txt"
-
-To add all files:
-
-git add .
+Updating file
