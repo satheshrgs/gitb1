@@ -1,1 +1,1 @@
-# Test Git Training
+# git-testing
