@@ -1,10 +1,10 @@
 #include<conio.h>
 #include<stdio.h>
 
-void main()
+void main() {
 
 
-some modification
+some modification adding some content
 
 To add one specific file:
 
@@ -17,6 +17,7 @@ To add all files:
 
 git add .
 
+asasdasdasd
 
 To add files by extension:
 
