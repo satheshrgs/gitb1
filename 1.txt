@@ -1,2 +1,2 @@
-Updated By user 1
-modified for GIt GUI
+Updated By user 2
+deleted for GIt GUI
