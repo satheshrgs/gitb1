@@ -1,2 +1,2 @@
 Updated By user 1
-updated for GIt GUI
+modified for GIt GUI
