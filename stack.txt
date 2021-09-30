@@ -3,6 +3,8 @@
 
 Adding some logic
 
+3 way merge demo
+
 first user adding some changes
 
 making some changes
